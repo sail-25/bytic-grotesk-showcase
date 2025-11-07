@@ -1,8 +1,8 @@
 const skills = {
-  "Frontend": ["React", "TypeScript", "Tailwind CSS", "Next.js", "Vite"],
-  "Backend": ["Node.js", "Supabase", "PostgreSQL", "REST APIs"],
-  "Tools": ["Git", "Figma", "VS Code", "Vercel"],
-  "Practices": ["Responsive Design", "Web Accessibility", "Performance Optimization"],
+  "AI & Automation": ["RAG", "AI Agents", "LangChain", "OpenAI", "n8n", "Workflow Automation"],
+  "Development": ["React", "TypeScript", "Next.js", "Node.js", "REST APIs"],
+  "AI Solutions": ["Chatbots", "WhatsApp Agents", "Internal AI Systems", "Vector Databases"],
+  "Design": ["Web Design", "Product Design", "Figma", "UI/UX", "Tailwind CSS"],
 };
 
 export const Skills = () => {

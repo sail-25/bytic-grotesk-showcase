@@ -3,21 +3,21 @@ import { Card } from "@/components/ui/card";
 
 const projects = [
   {
-    title: "Momentum",
-    description: "A productivity platform with task management, time tracking, and analytics",
-    tech: ["React", "TypeScript", "Supabase"],
+    title: "AI Workflow Engine",
+    description: "Custom automation system with n8n integration, handling complex multi-step workflows and AI agent orchestration",
+    tech: ["n8n", "RAG", "AI Agents", "APIs"],
     link: "#",
   },
   {
-    title: "Nexus",
-    description: "Real-time collaboration tool for distributed teams",
-    tech: ["Next.js", "WebSockets", "PostgreSQL"],
+    title: "WhatsApp AI Agent",
+    description: "Intelligent conversational agent for customer support with natural language understanding and context retention",
+    tech: ["OpenAI", "LangChain", "WhatsApp API", "RAG"],
     link: "#",
   },
   {
-    title: "Prism",
-    description: "Design system and component library for modern web applications",
-    tech: ["React", "Storybook", "Tailwind"],
+    title: "Website Chatbot Platform",
+    description: "Embeddable AI chatbot system with custom knowledge base integration and seamless website integration",
+    tech: ["React", "Vector DB", "RAG", "TypeScript"],
     link: "#",
   },
 ];

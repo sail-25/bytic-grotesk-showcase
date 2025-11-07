@@ -12,16 +12,17 @@ export const About = () => {
           
           <div className="space-y-6 text-lg text-muted-foreground leading-relaxed">
             <p>
-              I'm a web developer focused on creating minimal, impactful digital experiences. 
-              My approach combines clean design principles with modern web technologies.
+              I specialize in AI automation and intelligent systems, building everything from 
+              workflow automations with n8n to custom AI agents and RAG implementations.
             </p>
             <p>
-              With expertise in React, TypeScript, and modern CSS frameworks, I transform 
-              ideas into polished, performant applications that users love to interact with.
+              My work spans website chatbots, WhatsApp agents, and internal AI solutions for companies. 
+              I also design and develop modern web applications and products with a focus on clean, 
+              user-centric interfaces.
             </p>
             <p>
-              When I'm not coding, you'll find me exploring design systems, staying current 
-              with web standards, and refining my craft.
+              As a thought leader in the AI automation space, I combine technical expertise with 
+              strategic thinking to deliver solutions that transform how businesses operate.
             </p>
           </div>
         </div>

@@ -13,17 +13,17 @@ export const Hero = () => {
         <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-1000">
           <div className="space-y-4">
             <p className="text-sm font-medium text-muted-foreground uppercase tracking-wider">
-              Web Developer
+              AI Automation & Development
             </p>
             <h1 className="text-6xl md:text-8xl font-bold tracking-tighter leading-none">
-              Crafting digital
+              Building intelligent
               <br />
-              <span className="text-accent">experiences</span>
+              <span className="text-accent">automation</span>
             </h1>
           </div>
           
           <p className="text-xl md:text-2xl text-muted-foreground max-w-2xl font-light leading-relaxed">
-            I design and develop clean, functional websites that merge aesthetic precision with technical excellence.
+            AI agents, workflow automation, RAG systems, and modern web experiences—from n8n to custom builds.
           </p>
           
           <div className="flex gap-4 pt-4">
