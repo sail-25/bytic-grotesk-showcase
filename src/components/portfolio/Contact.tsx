@@ -30,9 +30,9 @@ export const Contact = () => {
               className="bg-accent hover:bg-accent/90 text-accent-foreground"
               asChild
             >
-              <a href="mailto:hello@bytic.dev" className="inline-flex items-center">
+              <a href="mailto:gfordevworks@gmail.com" className="inline-flex items-center">
                 <Mail className="mr-2 h-5 w-5" />
-                hello@bytic.dev
+                gfordevworks@gmail.com
               </a>
             </Button>
           </div>

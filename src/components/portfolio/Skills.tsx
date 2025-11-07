@@ -1,5 +1,5 @@
 const skills = {
-  "AI & Automation": ["RAG", "AI Agents", "LangChain", "OpenAI", "n8n", "Workflow Automation"],
+  "AI & Automation": ["RAG", "AI Agents", "LangChain", "n8n", "Workflow Automation"],
   "Development": ["React", "TypeScript", "Next.js", "Node.js", "REST APIs"],
   "AI Solutions": ["Chatbots", "WhatsApp Agents", "Internal AI Systems", "Vector Databases"],
   "Design": ["Web Design", "Product Design", "Figma", "UI/UX", "Tailwind CSS"],
@@ -16,13 +16,13 @@ export const Skills = () => {
           <div className="w-20 h-1 bg-accent rounded-full" />
         </div>
 
-        <div className="grid md:grid-cols-2 gap-12">
+        <div className="grid grid-cols-1 gap-12">
           {Object.entries(skills).map(([category, items]) => (
             <div key={category} className="space-y-4">
               <h3 className="text-xl font-semibold tracking-tight text-accent">
                 {category}
               </h3>
-              <ul className="space-y-2">
+              <ul className="flex flex-wrap gap-x-6 gap-y-2">
                 {items.map((skill) => (
                   <li
                     key={skill}

@@ -13,7 +13,7 @@ export const Hero = () => {
         <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-1000">
           <div className="space-y-4">
             <p className="text-sm font-medium text-muted-foreground uppercase tracking-wider">
-              AI Automation & Development
+              AI Engineer
             </p>
             <h1 className="text-6xl md:text-8xl font-bold tracking-tighter leading-none">
               Building intelligent
